@@ -1,7 +1,7 @@
 #Desafio 1 – Análise de Vendas
 #Objetivo:
 #Praticar listas, loops e funções básicas (sum(), max(), min(), len()).
- 
+
 #lista com as vendas de uma loja durante 10 dias:
 vendas = [120, 250, 180, 300, 150, 400, 220, 190, 350, 280]
 
