@@ -24,7 +24,6 @@ maisBarato = min(produtos, key=produtos.get)
 print(f"O produto mais barato é: {maisBarato}")
 
 #4.Calcule o valor médio dos produtos.
-
 Media = sum(produtos.values()) / len(produtos)
 print('O valor medio dos produtos é:', Media)
 
